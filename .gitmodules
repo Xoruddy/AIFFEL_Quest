@@ -1,0 +1,3 @@
+[submodule "fork_tests/AIFFEL_Quest"]
+	path = fork_tests/AIFFEL_Quest
+	url = https://github.com/KIID4/AIFFEL_Quest.git
